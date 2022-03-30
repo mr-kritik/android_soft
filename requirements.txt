@@ -1,0 +1,9 @@
+pip install --upgrade pip
+pysocks
+requests
+wget
+cfscrape
+urllib3
+scapy
+bs4
+keyboard
